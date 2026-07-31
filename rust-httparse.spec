@@ -6,8 +6,8 @@
 %global crate httparse
 
 Name:           rust-%{crate}
-Version:        1.3.4
-Release:        3%{?dist}
+Version:        1.10.1
+Release:        1%{?dist}
 Summary:        Tiny, safe, speedy, zero-copy HTTP/1.x parser
 
 # Upstream license specification: MIT/Apache-2.0
